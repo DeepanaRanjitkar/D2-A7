@@ -1,0 +1,24 @@
+.page-wrapper{
+background-color: gray;
+height: 50vh;
+width: 50%;
+margin:  200px auto;
+}
+.top-wrapper{
+    background-color: green;
+    height: 10vh;
+    width: 50%;
+    margin: auto;
+}
+.middle-wrapper{
+    background-color:lightblue;
+    height: 30vh;
+    width: 50%;
+    margin: auto;
+}
+.bottom-wrapper{
+    background-color:brown;
+    height: 10vh;
+    width: 50%;
+    margin: auto;
+}
